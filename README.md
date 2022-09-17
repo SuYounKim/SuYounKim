@@ -1,6 +1,6 @@
 <h1 align="center"> SuYounKim</h1>
 
-<h1>김수연의 깃허브🦦</h1>
+<h2>김수연의 깃허브🦦</h2>
 
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
