@@ -1,4 +1,4 @@
-<h1 align="center"> SuYounKim</h1>
+<h1 align="center">Hello! I am SuYoun Kim 👋</h1>
 
 <h2>김수연의 깃허브🦦</h2>
 
